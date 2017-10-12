@@ -1,3 +1,4 @@
 # Index of the git repository
 This is a test line.
 local change
+a new line from remote
